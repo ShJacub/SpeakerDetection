@@ -12,7 +12,7 @@ Effective speaker detection inference of LoCoNet and LASER models
   
   
 ### :hammer_and_wrench: Install  
-  0. Clone repository:
+  0. Clone repository:  
     git clone https://github.com/ShJacub/SpeakerDetection speaker_detection
   1. Set paths in bash_scripts/docker_create.sh and create and run docker container  
     bash bash_scripts/docker_create.sh  
