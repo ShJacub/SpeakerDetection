@@ -1,0 +1,6 @@
+USE_LASER_LOCONET: False
+NUM_SPEAKERS: 3
+CLIP_LENGTH: 200
+AV: "speaker_temporal"
+AV_layers: 3
+ADJUST_ATTENTION: 0
