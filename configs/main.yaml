@@ -1,0 +1,20 @@
+# Paths to configs
+asd_config: "configs/asd.yaml" 
+yolo_confg: "configs/yolo.yaml"
+lms_config: "configs/landmarks.yaml"
+
+# Video for process
+video_path: "/data/videos/40_sec.mkv"
+
+# process params
+PROCESS_PARAMS:
+  fps: 25 # 
+  nDataLoaderThread: 10
+  numFailedDet: 12
+  minTrack: 20
+  minFaceSize: 1
+
+# Temporal dirs
+tmp_dir: "tmp_dir"
+split_folder: "split_videos"
+result_dir: "result"

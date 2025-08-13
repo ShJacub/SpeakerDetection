@@ -1,0 +1,23 @@
+export version="10.1.0.27-1+cuda12.4"
+apt-get update && apt-get install -y  \
+            libnvinfer-bin=${version} \
+            libnvinfer-dev=${version} \
+            libnvinfer-dispatch-dev=${version} \
+            libnvinfer-dispatch10=${version} \
+            libnvinfer-headers-dev=${version} \
+            libnvinfer-headers-plugin-dev=${version} \
+            libnvinfer-lean-dev=${version} \
+            libnvinfer-lean10=${version} \
+            libnvinfer-plugin-dev=${version} \
+            libnvinfer-plugin10=${version} \
+            libnvinfer-samples=${version} \
+            libnvinfer-vc-plugin-dev=${version} \
+            libnvinfer-vc-plugin10=${version} \
+            libnvinfer10=${version} \
+            libnvonnxparsers-dev=${version} \
+            libnvonnxparsers10=${version} \
+            python3-libnvinfer-dev=${version} \
+            python3-libnvinfer-dispatch=${version} \
+            python3-libnvinfer-lean=${version} \
+            python3-libnvinfer=${version} \
+            tensorrt=${version}

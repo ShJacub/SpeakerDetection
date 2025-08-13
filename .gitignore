@@ -1,0 +1,16 @@
+*.model
+*.pt
+*.pth
+*.task
+*.pckl
+*.onnx
+*.engine
+
+*.pyc
+
+*.jpg
+*.mp3
+*.avi
+*.mp4
+*.wav
+*.mkv
