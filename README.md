@@ -25,7 +25,7 @@ Effective speaker detection inference of LoCoNet and LASER models
   2. face_landmarker_v2_with_blendshapes.task  
   3. Speaker Detection Models  
     3.1. LoCoNet (if you will use LoCoNet model) - https://github.com/SJTUwxz/LoCoNet_ASD  
-    3.2. LASER (if you will user LoCoNet_LASER model) - https://github.com/plnguyen2908/LASER_ASD  
+    3.2. LASER (if you will use LoCoNet_LASER model) - https://github.com/plnguyen2908/LASER_ASD  
 Place weights into folder 'weights'  
 
 ### :bookmark_tabs: Config
